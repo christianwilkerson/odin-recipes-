@@ -1,0 +1,27 @@
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #4E6E58;
+    background-color: #EAEFBD;
+}
+
+img {
+    width: 500px;
+    border-radius: 30px;
+    border-style: groove;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #EAEFBD;
+    color: #C6AE82;
+}
+
+.description {
+    font-size: 17px;
+    font-family: monospace;
+}
+
+ol, ul {
+    font-size: large;
+    font-family: monospace;
+}
